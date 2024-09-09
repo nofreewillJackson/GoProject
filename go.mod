@@ -1,1 +1,1 @@
-module GoProject
+module github.com/nofreewillJackson/GoProject
